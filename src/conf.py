@@ -1,0 +1,21 @@
+# Camera parameters
+CAM_ID = 0
+FRAME_W = 1280
+FRAME_H = 720
+
+# Plot configuration
+TEXT_COLOR = (0, 255, 0)
+LM_COLOR = (51, 255, 51)
+CT_COLOR = (243, 166, 56)
+WARN_COLOR = (76, 76, 255)
+WH_COLOR = (255, 255, 255)
+
+# Target landmarks
+LEFT_EYE = [263, 362, 386, 374, 473, 474, 475, 476, 477]
+RIGHT_EYE = [133,  33, 159, 145, 468, 469, 470, 471, 472]
+
+# Thresholds
+GAZE_LEFT = 0.2
+GAZE_RIGHT = 0.8
+EYE_CLOSED = 0.22
+FRAME_CLOSED = 10
