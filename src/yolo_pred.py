@@ -4,10 +4,10 @@ import pygame
 import datetime
 
 pygame.mixer.init()
-sound_siren = pygame.mixer.Sound("/Users/jihyun/PycharmProjects/AI-DMS-project/sound/siren.wav")
-sound_calling = pygame.mixer.Sound("/Users/jihyun/PycharmProjects/AI-DMS-project/sound/calling.wav")
-sound_smoking = pygame.mixer.Sound("/Users/jihyun/PycharmProjects/AI-DMS-project/sound/smoking.wav")
-sound_texting = pygame.mixer.Sound("/Users/jihyun/PycharmProjects/AI-DMS-project/sound/texting.wav")
+sound_siren = pygame.mixer.Sound("/Users/bagsangbeom/PycharmProjects/DMS/sound/siren.wav")
+sound_calling = pygame.mixer.Sound("/Users/bagsangbeom/PycharmProjects/DMS/sound/calling.wav")
+sound_smoking = pygame.mixer.Sound("/Users/bagsangbeom/PycharmProjects/DMS/sound/smoking.wav")
+sound_texting = pygame.mixer.Sound("/Users/bagsangbeom/PycharmProjects/DMS/sound/texting.wav")
 
 # object classes
 classNames = ["calling", "smoking", "texting"]
