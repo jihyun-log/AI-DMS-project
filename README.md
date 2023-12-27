@@ -54,6 +54,7 @@ The original YOLOv8 model can be found in this repository: [YOLOv8 Repository](h
  ```
 
 # DMS System(Demo)
+The step-by-step drowsiness detection information service is supported by voice, so it is not visible from the gif
  ![!YOLOv8 detection video](main/main_DMS.gif)
 
 # The functions that we want to put in the future(Demo)
