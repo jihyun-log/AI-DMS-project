@@ -63,6 +63,3 @@ The step-by-step drowsiness detection information service is supported by voice,
 
 # References:
 * YOLOv8 model: [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
-* Gazetimation: [https://github.com/paul-shuvo/gazetimation/tree/release](https://github.com/paul-shuvo/gazetimation/tree/release)
-* Real Time Driver State Detection: [https://github.com/e-candeloro/Driver-State-Detection](https://github.com/e-candeloro/Driver-State-Detection)
-* Face3D: [https://github.com/abdallahdib/NextFace?tab=readme-ov-file](hhttps://github.com/abdallahdib/NextFace?tab=readme-ov-file)
