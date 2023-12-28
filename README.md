@@ -1,4 +1,4 @@
-![! YOLOv8 Object Detection](main/main_drowsy.png)
+![! YOLOv8 Object Detection](main/main_drowsy_detection.gif)
 ![! YOLOv8 Object Detection](main/main_yolo.png)
 
 # Important
